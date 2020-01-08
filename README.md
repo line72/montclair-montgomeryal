@@ -1,5 +1,5 @@
-# Montclair
+# Go Montgomery, AL
 
-This is a simple project to show a live view of all the buses in the Birmigham, AL Transit Systems.
+Real Time Tracking of the Buses for Montgomery, AL
 
-https://montclair.line72.net/
+https://montgomeryal.gotransitapp.com
